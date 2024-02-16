@@ -2,15 +2,15 @@ Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
-# Heading 1 #
+# 제목 1 #
 
-    Markup :  # Heading 1 #
+    Markup :  # 제목 1 #
 
     -OR-
 
     Markup :  ============= (below H1 text)
 
-## Heading 2 ##
+## 제목 2 ##
 
     Markup :  ## Heading 2 ##
 
@@ -18,7 +18,7 @@ Markdown Cheatsheet<a name="TOP"></a>
 
     Markup: --------------- (below H2 text)
 
-### Heading 3 ###
+### 제목 3 ###
 
     Markup :  ### Heading 3 ###
 
